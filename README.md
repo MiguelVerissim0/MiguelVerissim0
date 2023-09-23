@@ -10,7 +10,11 @@ Oi, me chamo Miguel!
 - Aprendendo JAVA ☕
 
 ## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/miguelverissimo) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/miguiverissimo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/miguelverissimo)
+<a href="https://instagram.com/miguiverissimo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:miguelverissimooo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
 ## Habilidades 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 	![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) 	![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
